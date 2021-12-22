@@ -1,0 +1,7 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "YongJaeKim <kiyoja07@gmail.com>",
+  "license": "MIT"
+}
