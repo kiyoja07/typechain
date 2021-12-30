@@ -67,3 +67,7 @@ Temporary Items
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/yarn,macos,visualstudiocode
+
+.env
+dist
+node_modules
